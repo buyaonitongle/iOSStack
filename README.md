@@ -7,3 +7,10 @@
 OC和JS相互调用|https://github.com/marcuswestin/WebViewJavascriptBridge
 
 
+###内存监测工具
+功能 |  地址
+----|-----
+FACEBOOK内存监测工具|https://github.com/facebook/FBMemoryProfiler
+内存泄露监测工具 | https://github.com/Zepo/MLeaksFinder
+
+
